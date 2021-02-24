@@ -15,7 +15,6 @@ input_word = "GREEN"  # example, could be any word
 # option 2 - look vertically and horizonrally
 # expected output - [(0,9), (1,1), (1,1)]
 
-# deepti@platform9.com
 
 
 
